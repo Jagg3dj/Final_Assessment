@@ -64,3 +64,50 @@ nav{
     transform: translate( 0%, 50%);
     color: white;
 }
+
+
+
+  
+/* ------------------------------------------------------------------- 
+* ## Boxes
+* ------------------------------------------------------------------- */
+
+#boxes{
+    margin-top:20px;
+  }
+  
+  #boxes .box{
+    float:left;
+    text-align: center;
+    width:25%;
+    
+  }
+  
+  #boxes .box img{
+    width:70px;
+  }
+  
+  #box-contact h3  {
+    text-align:left;
+    font-size: 24px;
+  }
+  
+  #box-contact p {
+    text-align:left;
+  }
+  
+  #box-contact {
+    background-color: #E9E9EA;
+  }
+
+  #boxes .button {
+    text-align: center;
+  }
+
+  /* description */
+  #desc{
+    text-align:center;
+    padding:15px;
+    color:#ffffff;
+    background:#35424a
+  }
