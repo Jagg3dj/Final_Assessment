@@ -178,3 +178,13 @@ nav{
     height: 100px;
     padding: 5px;
   }
+
+
+
+
+/* --------------------------- Section ------------------ */
+
+.box2 {
+    position: absolute;
+   text-align: center;
+}
