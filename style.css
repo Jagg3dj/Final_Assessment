@@ -185,6 +185,17 @@ nav{
 /* --------------------------- Section ------------------ */
 
 .box2 {
-    position: absolute;
-   text-align: center;
+  position: absolute;
+  text-align: center;
+}
+
+
+
+/* --------------------------- Footer ------------------ */
+
+footer{
+  padding: 10px;
+  color:#ffffff;
+  background-color:#14171A;
+  text-align: center;
 }
